@@ -1,15 +1,6 @@
 {
   "estudiantes": [
     {
-      "id": 1,
-      "nombre_completo": "Benni Antonik",
-      "apellido1": "Heindle",
-      "apellido2": "Antonik",
-      "fecha_nacimiento": "2020-07-25",
-      "folio": "616-20-5116",
-      "foto": "http://dummyimage.com/464x178.bmp/dddddd/000000"
-    },
-    {
       "id": 2,
       "nombre_completo": "Sloane Helm",
       "apellido1": "Bogue",
@@ -449,6 +440,49 @@
       "fecha_nacimiento": "2019-11-08",
       "folio": "805-97-4407",
       "foto": "http://dummyimage.com/417x112.png/cc0000/ffffff"
+    },
+    {
+      "nombre_completo": "Mario Alejandro Meneses",
+      "apellido1": "Diaz",
+      "apellido2": "Meneses",
+      "fecha_nacimiento": "2005-01-30",
+      "folio": "7-28-1082",
+      "foto": "http://dummyimage.com/519x345.bmp/cc0000/ffffff",
+      "id": 51
+    },
+    {
+      "nombre_completo": "Dario Meneses",
+      "apellido1": "Meneses",
+      "apellido2": "Diaz",
+      "fecha_nacimiento": "2002-10-30",
+      "folio": "790-28-32482",
+      "foto": "http://dummyimage.com/519x345.bmp/cc0000/ffffff",
+      "id": 52
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "nombre": "Construcción de Elemenros de software 1",
+      "codigo": "CES1"
+    },
+    {
+      "id": 2,
+      "nombre": "Taller de base de datos",
+      "codigo": "DB1"
+    },
+    {
+      "id": 3
+    },
+    {
+      "nombre": "Construccion de elementos de software web 1",
+      "codigo": "CESW1",
+      "id": 4
+    },
+    {
+      "nombre": "Construccion de elementos de software web 1",
+      "codigo": "CESW1",
+      "id": 5
     }
   ]
 }
